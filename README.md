@@ -1,2 +1,1 @@
-# SWP-1
-software project one github
+Choi Bi Seong
