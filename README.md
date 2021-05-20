@@ -1,2 +1,2 @@
-20213090 Choi Bi Seong
+20213090    Choi Bi Seong
 Kookmin Univ. SW
